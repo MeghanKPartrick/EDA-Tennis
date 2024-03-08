@@ -3,6 +3,7 @@
 <h2>Description</h2>
 This project entails data collected directly by a team of individuals. The data was obtained by observing tennis matches during the recent Australian Open 2024. Our research focuses on analyzing individual rallies, encompassing variables such as rally length, serve speed, win conditions, number of faults, and server outcomes. We conduct exploratory data analysis, initially generating figures to gain a foundational understanding of the dataset. Subsequently, we delve deeper into insights derived from these figures, employing various models and testing methodologies to bolster our findings. Additionally, we meticulously address potential data issues and acknowledge any limitations inherent in our study.
 <br />
+The data can be viewed as a csv in the files section. 
 <br />
 
 ### [Full Paper](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:6df08e46-cb6b-3290-86ff-8d3b8181ddd7)
